@@ -1,0 +1,23 @@
+:host {
+
+    .wrapper {
+
+        display: flex;
+        align-items: center;
+        padding: 5px;
+
+        .left, .right {
+
+            padding: 10px;
+
+        }
+
+        .center {
+
+            flex: 1;
+
+        }
+
+    }
+
+}
